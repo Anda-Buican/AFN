@@ -123,9 +123,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp" />
+    <ClCompile Include="afd.cpp" />
+    <ClCompile Include="afn.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="afd.in" />
+    <None Include="afd.out" />
     <None Include="afn.in" />
     <None Include="afn.out" />
   </ItemGroup>

@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="afd.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="afn.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -24,6 +27,12 @@
       <Filter>Resource Files</Filter>
     </None>
     <None Include="afn.out">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="afd.in">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="afd.out">
       <Filter>Resource Files</Filter>
     </None>
   </ItemGroup>
